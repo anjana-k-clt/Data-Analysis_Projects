@@ -1,4 +1,6 @@
-## Career aspirations of Gen-Z
+# Career Aspirations of Gen-Z
+
+## Table of contents
 
 ### Project overview
 
