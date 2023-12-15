@@ -59,7 +59,7 @@ EDA was based on analysing the Personal, Learning, Manager and Mission aspiratio
 
 15 What is the most suitable working environment according to female Gen-Z?
 
-16 What percent of male Gen-Z expects greater than 50k salary in 5 years and also work under employers who appreciate learning but doesn't enablea learning environment?
+16 What percent of male Gen-Z expects greater than 50k salary in 5 years and also work under employers who appreciate learning but doesn't enable a learning environment?
 
 17 Calculate the total number of females who aspire to work in their closest aspirational career and have a no social impact likelihood of 1 to 5?
 
@@ -67,7 +67,7 @@ EDA was based on analysing the Personal, Learning, Manager and Mission aspiratio
 
 19 Determine the percentage of gender who have a no social impact likelihood of 8 to 10 among those who are interested in higher education abroad.
 
-20 Find the counts of male, female and overall Gen-Zs and also the overall percent of Gen-Zs who prefer to work with teams?
+20 Find the counts of male, female and overall Gen-Zs and also the overall percent of Gen-Z who prefer to work with teams?
 
 21 Give a detailed breakdown of work likelihood in 3 years for each gender.
 
@@ -92,7 +92,11 @@ EDA was based on analysing the Personal, Learning, Manager and Mission aspiratio
 31 Give a detailed breakdown of the possibility of Gen-Z working for an organization having misaligned mission for each country.
 
 
-### Data Analysis
+### Creating report
+
+The report was created based on the following questions.
+
+1 
 
 
 
