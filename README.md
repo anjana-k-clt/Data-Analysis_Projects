@@ -1,12 +1,15 @@
 # Career Aspirations of Gen-Z
 
-## Table of contents
+## Table of Contents
 
-### Project overview
+[Project Overview](#Project-Overview)
+[Data Sources]
+[Recommendations]
+### Project Overview
 
 This data analytics project aims to get a vision on various aspects about career aspirations of Gen-Z. It focuses on three aspects namely, Learning, Manager and Mission aspirations.
 
-### Data sources
+### Data Sources
 
 Four datasets are used. "Gen-Z - Personalized Info Table - 1.xlsx", "learning_aspirations.json", "Mission_aspirations.txt" and "Gen-Z - Manager Aspirations Info Table - 4".
 
