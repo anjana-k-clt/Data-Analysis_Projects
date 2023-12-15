@@ -12,7 +12,9 @@ This data analysis project aims to get a vision on various aspects related to ca
 
 ### Data Sources
 
-Four datasets are used. "Gen-Z - Personalized Info Table - 1.xlsx", "learning_aspirations.json", "Mission_aspirations.txt" and "Gen-Z - Manager Aspirations Info Table - 4".
+ [Personalized_info](https://docs.google.com/spreadsheets/d/1VuQv6utQIJCIne9AAw8BOJXTGhGCkqST2jUn0ZoGT2w/edit?usp=drive_link)
+ 
+ "Gen-Z - Personalized Info Table - 1.xlsx", "learning_aspirations.json", "Mission_aspirations.txt" and "Gen-Z - Manager Aspirations Info Table - 4".
 
 ### Tools
 
