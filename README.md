@@ -4,7 +4,7 @@
 
 - [Project Overview](#project-Overview)
 - [Data Sources](#data-sources)
-[Recommendations]
+- [Recommendations](#recommendations)
 ### Project Overview
 
 This data analytics project aims to get a vision on various aspects about career aspirations of Gen-Z. It focuses on three aspects namely, Learning, Manager and Mission aspirations.
