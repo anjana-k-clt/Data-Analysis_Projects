@@ -109,7 +109,7 @@ EDA was based on analysing the Personal, Learning, Manager and Mission aspiratio
 2 SQL for Beginners 2023 - MySQL
    https://www.udemy.com/share/109mms3@tpK_lhmayYlE7Kp5rMOdGk5Uw11TY9hUyU3gDFYp3F5Ln2NSeEDy8c_C1RiQP-g5/
    
-3 PowerBI Full Course in 8 Hours | PowerBI Tutorial for Beginners
+3 PowerBI Full Course in 8 Hours | PowerBI Tutorial for Beginners.
    https://youtu.be/UXhGRVTndQA?si=WzxnWg2PHFkahew
    
 
