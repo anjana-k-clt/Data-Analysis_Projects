@@ -8,7 +8,7 @@
 
 ### Project Overview
 
-This data analysis project aims to get a vision on various aspects related to career aspirations of Gen-Z. It focuses on three aspirations namely, Learning, Manager and Mission.
+This data analysis project aims to explore various aspects related to career aspirations of Gen-Z. It focuses on three aspirations namely, Learning, Manager and Mission.
 
 ### Data Sources
 
