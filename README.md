@@ -191,6 +191,8 @@ Some of the notable results are listed below.
 
 ### Limitations
 
+Entries of respondents who missed giving responses for more than half of the questions related to each of the three aspirations are omitted in this study.
+
 ### References
 
 1 Microsoft Excel: Beginner to Advanced for 2023 by Udemy 
