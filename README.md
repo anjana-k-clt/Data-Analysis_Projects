@@ -41,7 +41,7 @@ Data cleaning and formatting were done using Microsoft Excel.
 
 ### Exploratory Data Analysis
 
-EDA was based on analysing the Personal, Learning, Manager and Mission aspirations datasets to answer the following key questions using the sql dump file in MySQL.
+Exploratory Data Analysis (EDA) was based on analysing the Personal, Learning, Manager and Mission aspirations datasets to answer the following key questions using the sql dump file in MySQL.
 
 1 How many male Gen-Z have responded to the survey from India?
 
@@ -112,7 +112,7 @@ A general report was created based on the exploratory data analysis results to v
 
 Focus area dashboards were created for a deeper understanding of Learning, Manager and Mission aspirations.
 
-- Mission aspirations dashboard contains:
+- **Mission aspirations dashboard contains:**
 
 1 Primary Key Performance Indicator(KPI) as the count of Gen-Z who would work for a company with an undefined mission.
 
@@ -132,7 +132,7 @@ Focus area dashboards were created for a deeper understanding of Learning, Manag
 
 9 Line chart showing the change in preferences over time of higher education in abroad by mission aligned respondents. 
 
-- Manager aspirations dashboard contains:
+- **Manager aspirations dashboard contains:**
 
 1 Primary KPI  as the most preferred manager.
 
@@ -154,7 +154,7 @@ Focus area dashboards were created for a deeper understanding of Learning, Manag
 
 10 Line chart displaying the changes in preferences over time for higher education in abroad for those who prefer managers who set claer goals.
 
-- Learning aspirations dashboard contains:
+- **Learning aspirations dashboard contains:**
 
 1 Primary KPI as the count of respondents who wish to pursue higher education abroad.
 
