@@ -37,7 +37,7 @@ This data analysis project aims to explore various aspects related to career asp
 
 ### Data Cleaning
  
-Data cleaning and formatting was done using Microsoft Excel
+Data cleaning and formatting were done using Microsoft Excel
 
 ### Exploratory Data Analysis (EDA)
 
