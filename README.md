@@ -7,7 +7,7 @@
 - [Tools](#tools)
 - [Data Cleaning](#data-cleaning)
 - [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-(EDA))
-- [Reports](#reports)
+- [Dashboards](#dashboards)
 - [Results](#results)
 - [References](#references)
 
@@ -37,11 +37,11 @@ This data analysis project aims to explore various aspects related to career asp
 
 ### Data Cleaning
  
-Data cleaning and formatting
+Data cleaning and formatting was done using Microsoft Excel
 
 ### Exploratory Data Analysis (EDA)
 
-EDA was based on analysing the Personal, Learning, Manager and Mission aspirations datasets to answer the following key questions.
+EDA was based on analysing the Personal, Learning, Manager and Mission aspirations datasets to answer the following key questions using the sql dump file in MySQL.
 
 1 How many male Gen-Z have responded to the survey from India?
 
@@ -106,9 +106,11 @@ EDA was based on analysing the Personal, Learning, Manager and Mission aspiratio
 31 Give a detailed breakdown of the possibility of Gen-Z working for an organization having misaligned mission for each country.
 
 
-### Reports
+### Dashboards
 
-The report was created based on the following questions.
+Reports were created using four datsets on Personalized info, Learning aspirations, Manager aspirations and Mission aspirations in Microsoft PowerBI.
+
+ report was created based on the following questions.
 
 1 
 
