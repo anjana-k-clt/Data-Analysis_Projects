@@ -2,9 +2,14 @@
 
 ## Table of Contents
 
-- [Project Overview](#project-overview)
+- [Project Overview](project-overview)
 - [Data Sources](#data-sources)
+- [Tools](#tools)
+- [Data Cleaning](#data-cleaning)
+- [Exploratory Data Analysis(EDA)](#exploratory-data-analysis)
+- [Reports](#reports)
 - [Results](#results)
+- [References](#references)
 
 ### Project Overview
 
@@ -101,7 +106,7 @@ EDA was based on analysing the Personal, Learning, Manager and Mission aspiratio
 31 Give a detailed breakdown of the possibility of Gen-Z working for an organization having misaligned mission for each country.
 
 
-### Creating report
+### Reports
 
 The report was created based on the following questions.
 
