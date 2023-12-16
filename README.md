@@ -37,7 +37,7 @@ This data analysis project aims to explore various aspects related to career asp
 
 ### Data Cleaning
  
-Data cleaning and formatting were done using Microsoft Excel
+Data cleaning and formatting were done using Microsoft Excel.
 
 ### Exploratory Data Analysis (EDA)
 
@@ -115,6 +115,12 @@ Focus area dashboards were created for a deeper understanding of Learning, Manag
   
 ### Results
 
+- Both male and female Gen-Zs are highly influenced by parents as career influence factor and are least influenced by social media like LinkedIn.
+- Compared to males, female Gen-Zs are more influenced by parents in their career choices.
+- Males are more influenced by social media than female Gen-Z.
+- The count of both male and female Gen-Z opting for every day office environment are equal.
+- Large number of male Gen-Z prefers Hybrid working environment with greater than 15 days st office.
+- Large number of female Gen-Z prefers fully remote environment
 
 ### Limitations
 
