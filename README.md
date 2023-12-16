@@ -39,7 +39,7 @@ This data analysis project aims to explore various aspects related to career asp
  
 Data cleaning and formatting were done using Microsoft Excel.
 
-### Exploratory Data Analysis (EDA)
+### Exploratory Data Analysis
 
 EDA was based on analysing the Personal, Learning, Manager and Mission aspirations datasets to answer the following key questions using the sql dump file in MySQL.
 
