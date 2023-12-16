@@ -12,13 +12,15 @@ This data analysis project aims to get a vision on various aspects related to ca
 
 ### Data Sources
 
- [Personalized_info](https://docs.google.com/spreadsheets/d/1VuQv6utQIJCIne9AAw8BOJXTGhGCkqST2jUn0ZoGT2w/edit?usp=drive_link)
+[Gen-Z dataset](https://drive.google.com/file/d/1AIZFCsFaBDeN731bgWPo312rsFRjEz2M/view?usp=drive_link)
+ 
+[Personalized_info](https://docs.google.com/spreadsheets/d/1VuQv6utQIJCIne9AAw8BOJXTGhGCkqST2jUn0ZoGT2w/edit?usp=drive_link)
 
- [Learning_aspirations](https://drive.google.com/file/d/1xjgbiCjri7_VmVPfHzUwXcRvaHo2Ilv2/view?usp=drive_link)
+[Learning_aspirations](https://drive.google.com/file/d/1xjgbiCjri7_VmVPfHzUwXcRvaHo2Ilv2/view?usp=drive_link)
 
- [Manager_aspirations](https://docs.google.com/spreadsheets/d/12X_-2ssPVqdbgziA4KnmjdIfdRBKC5Ld3GRbnitQ4Nw/edit?usp=drive_link)
+[Manager_aspirations](https://docs.google.com/spreadsheets/d/12X_-2ssPVqdbgziA4KnmjdIfdRBKC5Ld3GRbnitQ4Nw/edit?usp=drive_link)
 
- [Mission_aspirations](https://drive.google.com/file/d/15b8Xay4K1UPBmoNZ4vCbYZy1xPf9qMU3/view?usp=drive_link)
+[Mission_aspirations](https://drive.google.com/file/d/15b8Xay4K1UPBmoNZ4vCbYZy1xPf9qMU3/view?usp=drive_link)
 
 
 ### Tools
