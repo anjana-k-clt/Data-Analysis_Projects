@@ -112,15 +112,82 @@ A general report was created based on the exploratory data analysis results to v
 
 Focus area dashboards were created for a deeper understanding of Learning, Manager and Mission aspirations.
 
+- Mission aspirations dashboard contains:
+
+1 Primary Key Performance Indicator(KPI) as the count of Gen-Z who would work for a company with an undefined mission.
+
+2 Secondary KPI as the count of Gen-Z who would work for a company whose mission is misaligned with their public actions or even their product.
+
+3 Gender as slicer.
+
+4 Line chart showing the trend of respondents likelihood to work for companies with misaligned missions.
+
+5 Stacked bar chart showing the average expected salary in 3 years for respondents with different levels of mission alignment.
+
+6 Stacked bar chart showing the distribution of learning factors chosen by misaligned respondents.
+
+7 Stacked bar chart comparing the mission alignment proportions between male and female respondents.
+
+8 Line chart showing the changes in manager preferences trends for mission aligned and misaligned respondents over time.
+
+9 Line chart showing the change in preferences over time of higher education in abroad by mission aligned respondents. 
+
+- Manager aspirations dashboard contains:
+
+1 Primary KPI  as the most preferred manager.
+
+2 Secondary KPI as the most preferred employer.
+
+3 Gender as slicer.
+
+4 Stacked column chart showing the trend of willingness to work for the same employer for 3 years or more among respondents who have different manager preferences.
+
+5 Stacked bar chart comparing the distributions of manager preferences between male and female respondents.
+
+6 Line chart displaying the trends in preferred worksetup over the years for those who prefer managers who set clear goals.
+
+7 Stacked bar chart comparing the distributions of mission alignment among respondents with different manager preferences.
+
+8 Line chart showing trends in expected salary over the years for those who prefer managers who explain expectations and goals.
+
+9 Line chart showing the relationship between the likelihood of working and the number of laid off employees in that company.
+
+10 Line chart displaying the changes in preferences over time for higher education in abroad for those who prefer managers who set claer goals.
+
+- Learning aspirations dashboard contains:
+
+1 Primary KPI as the count of respondents who wish to pursue higher education abroad.
+
+2 Secondary KPI as the count of Gen-Z having career influence factor as parents.
+
+3 Gender as slicer.
+
+4 Stacked bar chart comapring the distribution of manager preferences(managers who set clear goals and others) among respondents who prioritize different learning factors.
+
+5 Line chart displaying the trends in the popularity of different learning factors over time among respondents with various manager preferences.
+
+6 Stacked bar chart comparing the distributions of career aspirations among respondents who prioritize different learning factors.
+
+7 Line chart displaying trends in the perceived importance of social impact over time for respondents focusing on various learning factors.
+
+8 Stacked bar chart comparing the distribution of gender among respondents who prioritize different learning factors.
+
+9 Line chart visualizing trends in preferred worksetup over the years for respondents focusing on various learning factors.
+
+10 Stacked bar chart comparing the average expected salary in 3 years among respondents with different manager preferences.
+
+11 Line chart showing trends in the preferences for higher education abroad over time for respondents focusing on various learning factors.  
   
 ### Results
 
+Some of the notable results are listed below.
+
 - Both male and female Gen-Zs are highly influenced by parents as career influence factor and are least influenced by social media like LinkedIn.
 - Compared to males, female Gen-Zs are more influenced by parents in their career choices.
-- Males are more influenced by social media than female Gen-Z.
-- The count of both male and female Gen-Z opting for every day office environment are equal.
-- Large number of male Gen-Z prefers Hybrid working environment with greater than 15 days st office.
-- Large number of female Gen-Z prefers fully remote environment
+- Males are more influenced by social media than female Gen-Zs.
+- The count of both male and female Gen-Zs opting for every day office environment are equal.
+- Large number of male Gen-Z prefers Hybrid working environment with greater than 15 days at office.
+- Large number of female Gen-Z prefers fully remote environment with options to travel.
 
 ### Limitations
 
