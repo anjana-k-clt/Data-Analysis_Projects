@@ -108,16 +108,13 @@ EDA was based on analysing the Personal, Learning, Manager and Mission aspiratio
 
 ### Dashboards
 
-Reports were created using four datsets on Personalized info, Learning aspirations, Manager aspirations and Mission aspirations in Microsoft PowerBI.
+A general report was created based on the exploratory data analysis results to visualize the career aspirations of Gen-Z in Microsoft PowerBI. 
 
- report was created based on the following questions.
+Focus area dashboards were created for a deeper understanding of Learning, Manager and Mission aspirations.
 
-1 
-
-
-
-
+  
 ### Results
+
 
 ### Limitations
 
