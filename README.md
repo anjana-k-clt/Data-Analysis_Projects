@@ -9,6 +9,7 @@
 - [Exploratory Data Analysis](#exploratory-data-analysis)
 - [Dashboards](#dashboards)
 - [Results](#results)
+- [Limitations](#limitations)
 - [References](#references)
 
 ### Project Overview
